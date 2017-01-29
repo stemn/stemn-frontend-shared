@@ -5,4 +5,5 @@ if(GLOBAL_ENV.APP_TYPE == 'web'){
 else{
   loadedModule  = require('./index.desktop.js')
 }
+console.log(loadedModule);
 module.exports = loadedModule ;
