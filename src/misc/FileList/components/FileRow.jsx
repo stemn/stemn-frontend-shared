@@ -26,7 +26,7 @@ export default React.createClass({
             show={true}
             query={{ item: file.commit._id }}
             scope="main"
-            className={classNames(classes.clickable, 'link-primary flex')}
+            className={classNames(classes.clickable, 'link-primary')}
           >
           {file.commit.summary}
           </Link>
