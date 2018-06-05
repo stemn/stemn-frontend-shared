@@ -1,3 +1,7 @@
+# Depricated
+
+This has moved to [https://github.com/stemn/stemn-frontend](https://github.com/stemn/stemn-frontend)
+
 ## Usage
 
 This is code shared between Stemns two products:
